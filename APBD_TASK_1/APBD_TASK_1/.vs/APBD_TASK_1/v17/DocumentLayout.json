@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\APBD\\Task1\\APBD_TASK_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{523BBEA5-D3AD-427A-860B-C1EF6528A714}|APBD_TASK_1\\APBD_TASK_1.csproj|z:\\apbd\\task1\\apbd_task_1\\apbd_task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{523BBEA5-D3AD-427A-860B-C1EF6528A714}|APBD_TASK_1\\APBD_TASK_1.csproj|solutionrelative:apbd_task_1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523BBEA5-D3AD-427A-860B-C1EF6528A714}|APBD_TASK_1\\APBD_TASK_1.csproj|z:\\apbd\\task1\\apbd_task_1\\apbd_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523BBEA5-D3AD-427A-860B-C1EF6528A714}|APBD_TASK_1\\APBD_TASK_1.csproj|solutionrelative:apbd_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "Z:\\APBD\\Task1\\APBD_TASK_1\\APBD_TASK_1\\.gitignore",
+              "RelativeDocumentMoniker": "APBD_TASK_1\\.gitignore",
+              "ToolTip": "Z:\\APBD\\Task1\\APBD_TASK_1\\APBD_TASK_1\\.gitignore",
+              "RelativeToolTip": "APBD_TASK_1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-10T12:28:47.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\APBD\\Task1\\APBD_TASK_1\\APBD_TASK_1\\Program.cs",
+              "RelativeDocumentMoniker": "APBD_TASK_1\\Program.cs",
+              "ToolTip": "Z:\\APBD\\Task1\\APBD_TASK_1\\APBD_TASK_1\\Program.cs",
+              "RelativeToolTip": "APBD_TASK_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:21.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
